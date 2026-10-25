@@ -1,0 +1,9 @@
+generated: '2026-10-25'
+method: none
+source: https://registry.npmjs.org/-/v1/search?text=instant-design
+packages: []
+rejected:
+- name: jsdesign-mcp-server
+  registry: npm
+  reason: 'official: false as written'
+note: 'no first-party package: every candidate a model listed was unowned (harvest-packages.py --audit)'

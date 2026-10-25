@@ -1,0 +1,16 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/instant-design/integrations
+- https://n8n.io/integrations/instant-design/
+- https://composio.dev/toolkits/instant-design
+- https://monid.ai/tools/instant-design
+checked:
+- https://composio.dev/toolkits/instant-design
+- https://monid.ai/tools/instant-design
+- https://n8n.io/integrations/instant-design/
+- https://zapier.com/apps/instant-design/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
